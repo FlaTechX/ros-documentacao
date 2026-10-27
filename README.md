@@ -12,8 +12,8 @@ Sistema de ecossistema completo para restaurantes visando a abordagem de casa in
 ### Cozinha
 * Visualização do pedido em tempo real
 * Distribuíção de pedidos por área:
- * Cozinha
- * Copa
+  * Cozinha
+  * Copa
 * Notificação de pedido finalizado
 ### Gestão
 * Produto
