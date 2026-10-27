@@ -5,12 +5,19 @@ Sistema de ecossistema completo para restaurantes visando a abordagem de casa in
 * Cardápio digital
 * Mapeamento de mesas
 * Comandas por mesa
+* Envio do pedido por:
+  * Cliente
+  * Atendente
 * Pagamento da comanda
 ### Cozinha
 * Visualização do pedido em tempo real
+* Distribuíção de pedidos por área:
+ * Cozinha
+ * Copa
 * Notificação de pedido finalizado
 ### Gestão
 * Produto
+* Fechamento da comanda
 * Funcionário
 ### Entrega
 * Integração com apps de delivery(Ifood, uber eats, ...)
