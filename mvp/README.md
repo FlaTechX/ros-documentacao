@@ -4,10 +4,12 @@
 * Cardápio digital
 * Mapeamento de mesas por número
 * Pedido individual por mesa(cliente)
-* verificação do status do pedido
+* Verificação do status do pedido
+* Abertura e fechamento de comanda
 #### Cozinha
 * Visualização do pedido em tempo real
-* Notificação de pedido finalizado
+* Tela de pedidos por área(copa, cozinha)
+* Notificar de pedido finalizado
 #### Gestão
 * Produtos
 ### Entrega
